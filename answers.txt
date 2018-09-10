@@ -13,4 +13,4 @@ one may work on a different task and and you may need to test them individually 
 merge them into main. This way you can work in parallel while not breaking the code and test and merge them as required.
  
 4. In a project how many remote Git repositories do you usually have?
-- One respository per project usually, it is easier to keep a track and you may create more branches as required.
+- A project can have multiple multiple remote repositories. Remote repositories are versions of the project that are hosted on the Internet 
